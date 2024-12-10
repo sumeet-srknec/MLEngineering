@@ -7,3 +7,8 @@
  <li><b>Profanity Detection:</b> Performance comparison of various models like LSTM, Voting classifiers (hard & soft), MultinomialNB, KNeighborsClassifier, DecisionTreeClassifier, RandomForestClassifier, XGBClassifier  </li>
  <li><b>Spam Detection:</b> Performance comparison of various models like LSTM, Voting classifiers (hard & soft), MultinomialNB, KNeighborsClassifier, DecisionTreeClassifier, RandomForestClassifier, XGBClassifier  </li>
 </ul>
+
+**Others**
+<ul>
+ <li>Single-layer perceptron for practice</li>
+</ul>
